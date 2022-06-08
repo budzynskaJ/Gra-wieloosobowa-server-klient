@@ -1,4 +1,4 @@
-# Gra-wieloosobowa-server-klient
+# Gra wieloosobowa server klient
 <ins> Autorki: </ins>
 - [Aleksandra Sidor](https://github.com/AleksandraSidor)
 - [Justyna Budzyńska](https://github.com/budzynskaJ)
